@@ -1,4 +1,4 @@
-# TODO List using JS
+# TODO List - JS
 
 **Functionalities**:
 
